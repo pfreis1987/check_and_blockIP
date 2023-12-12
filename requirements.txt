@@ -1,0 +1,7 @@
+requests
+json
+urllib3
+sys
+os
+datetime
+subprocess
